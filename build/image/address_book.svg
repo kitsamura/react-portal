@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.426" height="16" viewBox="0 0 17.426 16">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#5bad3b;stroke-width:2px}.cls-2{fill:#5bad3b}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_136" data-name="Group 136" transform="translate(-72.25 -186.75)">
+        <g id="Group_131" data-name="Group 131" transform="rotate(90 44.5 175.25)">
+            <g id="Rectangle_174" class="cls-1" data-name="Rectangle 174" transform="translate(56 132.5)">
+                <rect width="16" height="15" class="cls-3" rx="2"/>
+                <rect width="14" height="13" x="1" y="1" class="cls-4" rx="1"/>
+            </g>
+            <path id="Rectangle_177" d="M0 0h.161a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 .161 2.5H0V0z" class="cls-2" data-name="Rectangle 177" transform="rotate(-90 94.993 36.492)"/>
+            <path id="Rectangle_178" d="M0 0h.161a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 .161 2.5H0V0z" class="cls-2" data-name="Rectangle 178" transform="rotate(-90 97.243 34.242)"/>
+            <path id="Rectangle_179" d="M0 0h.161a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 .161 2.5H0V0z" class="cls-2" data-name="Rectangle 179" transform="rotate(-90 99.743 31.742)"/>
+        </g>
+        <g id="Group_132" data-name="Group 132" transform="translate(-.902)">
+            <circle id="Ellipse_56" cx="1.5" cy="1.5" r="1.5" class="cls-2" data-name="Ellipse 56" transform="translate(79 191)"/>
+            <path id="Path_61" d="M2.922 0a2.922 2.922 0 0 1 2.923 2.922c0 1.615-5.845 1.615-5.845 0A2.922 2.922 0 0 1 2.922 0z" class="cls-2" data-name="Path 61" transform="translate(77.662 194.5)"/>
+        </g>
+    </g>
+</svg>

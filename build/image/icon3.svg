@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#fa5727}.cls-3{fill:#2c2c2c}
+        </style>
+    </defs>
+    <g id="Group_165" data-name="Group 165" transform="translate(-8 -8)">
+        <path id="Rectangle_245" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 245" transform="translate(8 8)"/>
+        <g id="Group_159" data-name="Group 159" transform="translate(-15.635 -59.59)">
+            <rect id="Rectangle_246" width="8" class="cls-2" data-name="Rectangle 246" transform="translate(33.992 69.59)"/>
+            <path id="Path_72" d="M.362.483h8.647v1.554H0z" class="cls-3" data-name="Path 72" transform="translate(31.278 69.099)"/>
+            <path id="Path_74" d="M.338.483H8.4L9.988 2.35H0z" class="cls-3" data-name="Path 74" transform="translate(31.278 72.16)"/>
+            <rect id="Rectangle_250" width="5" class="cls-3" data-name="Rectangle 250" transform="translate(33.992 73.59)"/>
+            <rect id="Rectangle_249" width="8" class="cls-3" data-name="Rectangle 249" transform="translate(33.992 73.59)"/>
+            <path id="Path_73" d="M.517-.229h8.829l.643 1.742H0z" class="cls-2" data-name="Path 73" transform="translate(31.278 71.13)"/>
+            <path id="Path_64" d="M-6279.164 1868.966l3.917 6.232 12.107-14.881-3.756-6.011z" class="cls-2" data-name="Path 64" transform="translate(6306.999 -1785)"/>
+            <path id="Path_67" d="M-6279.781 1869.656l1.021 1.51 12.072-14.858-.793-1.226z" class="cls-3" data-name="Path 67" transform="translate(6308.316 -1784.566)"/>
+            <path id="Path_68" d="M-6279.956 1870.856l.951 1.477 12-14.964-.9-1.478z" class="cls-3" data-name="Path 68" transform="translate(6310.215 -1783.035)"/>
+            <path id="Path_75" d="M-6263.14 1868.966l-3.917 6.232-12.107-14.881 3.756-6.011z" class="cls-2" data-name="Path 75" transform="translate(6306.999 -1785)"/>
+            <path id="Path_76" d="M-6266.689 1869.656l-1.021 1.51-12.071-14.858.793-1.226z" class="cls-3" data-name="Path 76" transform="translate(6309.849 -1784.566)"/>
+            <path id="Path_77" d="M-6267.007 1870.856l-.95 1.477-12-14.964.9-1.478z" class="cls-3" data-name="Path 77" transform="translate(6308.441 -1783.035)"/>
+        </g>
+    </g>
+</svg>

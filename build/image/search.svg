@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.628" height="22.628" viewBox="0 0 22.628 22.628">
+    <defs>
+        <style>
+            .cls-1{fill:#bababa}
+        </style>
+    </defs>
+    <g id="Group_93" data-name="Group 93" transform="rotate(45 4547.932 1622.186)">
+        <path id="Subtraction_6" d="M8 16A8 8 0 0 1 2.343 2.343a8 8 0 1 1 11.314 11.314A7.948 7.948 0 0 1 8 16zM8 1.333A6.667 6.667 0 1 0 14.667 8 6.674 6.674 0 0 0 8 1.333z" class="cls-1" data-name="Subtraction 6" transform="translate(193 3683)"/>
+        <path id="Rectangle_45" d="M0 0h4.667a.667.667 0 0 1 .667.667.667.667 0 0 1-.667.667H0V0z" class="cls-1" data-name="Rectangle 45" transform="translate(207.667 3690.333)"/>
+    </g>
+</svg>

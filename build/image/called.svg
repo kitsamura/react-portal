@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="17" viewBox="0 0 14 17">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2,.cls-4{fill:#5bad3b}.cls-3,.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_135" data-name="Group 135" transform="translate(-73 -239)">
+        <g id="Union_2" class="cls-1" data-name="Union 2">
+            <path d="M50 13v-1a4.991 4.991 0 0 1 2-4V5a5 5 0 1 1 10 0v3a4.991 4.991 0 0 1 2 4v1z" class="cls-3" transform="translate(23 239)"/>
+            <path d="M61.83 11A2.987 2.987 0 0 0 60.8 9.599l-.799-.6V5c0-1.654-1.346-3-3-3s-3 1.346-3 3V9l-.799.6c-.485.364-.838.85-1.031 1.4h9.66M64 13H50v-1c0-1.635.786-3.087 2-4V5a5 5 0 1 1 10 0v3c1.215.912 2 2.364 2 4v1z" class="cls-4" transform="translate(23 239)"/>
+        </g>
+        <path id="Rectangle_186" d="M2 0a2 2 0 0 1 2 2v1H0V2a2 2 0 0 1 2-2z" class="cls-2" data-name="Rectangle 186" transform="rotate(180 41 128)"/>
+    </g>
+</svg>

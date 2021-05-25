@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="round-arrow_drop_down-24px" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#bababa}
+        </style>
+    </defs>
+    <path id="Path_38" d="M0 0h32v32H0z" class="cls-1" data-name="Path 38"/>
+    <path id="Path_39" d="M8.809 12.28l3.453 3.453a1.328 1.328 0 0 0 1.88 0L17.6 12.28a1.337 1.337 0 0 0-.951-2.28H9.742a1.334 1.334 0 0 0-.933 2.28z" class="cls-2" data-name="Path 39" transform="translate(2.805 3.333)"/>
+</svg>

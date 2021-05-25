@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__campaign-24px-3" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#5bad3b}
+        </style>
+    </defs>
+    <g id="prefix__Group_197" data-name="Group 197">
+        <path id="prefix__Rectangle_274" fill="none" d="M0 0H16V16H0z" data-name="Rectangle 274"/>
+    </g>
+    <path id="prefix__Path_92" d="M4.37 9.556A2.377 2.377 0 0 0 2 11.926V14.3a2.377 2.377 0 0 0 2.37 2.37h1.186v3s-.171 1.7 1.185 1.741 1.185-1.741 1.185-1.741v-3h1.185l5.926 3.556V6L9.111 9.556zm5.961 2.027l2.335-1.4v5.855l-2.335-1.4-.568-.338H4.37v-2.37h5.393z" class="prefix__cls-2" data-name="Path 92" transform="translate(-2 -5.444)"/>
+    <path id="prefix__Path_93" d="M15.778 12.62A5.31 5.31 0 0 0 14 8.65v7.929a5.265 5.265 0 0 0 1.778-3.959z" class="prefix__cls-2" data-name="Path 93" transform="translate(.222 -4.954)"/>
+</svg>

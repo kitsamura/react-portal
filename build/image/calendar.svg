@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17.6" viewBox="0 0 16 17.6">
+    <defs>
+        <style>
+            .cls-1{fill:#bababa}.cls-2{fill:#fff;stroke:#bababa}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_141" data-name="Group 141" transform="translate(-967 -411)">
+        <path id="Rectangle_213" d="M2 0h12a2 2 0 0 1 2 2v3H0V2a2 2 0 0 1 2-2z" class="cls-1" data-name="Rectangle 213" transform="translate(967 413.4)"/>
+        <path id="Rectangle_215" d="M0 0h1.6v2.4H0z" class="cls-1" data-name="Rectangle 215" transform="translate(970.2 411)"/>
+        <path id="Rectangle_216" d="M0 0h1.6v2.4H0z" class="cls-1" data-name="Rectangle 216" transform="translate(978.2 411)"/>
+        <g id="Rectangle_214" class="cls-2" data-name="Rectangle 214">
+            <path d="M0 0h16v9.2a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V0z" class="cls-3" transform="translate(967 417.4)"/>
+            <path d="M1 .5h14a.5.5 0 0 1 .5.5v8.2a1.5 1.5 0 0 1-1.5 1.5H2A1.5 1.5 0 0 1 .5 9.2V1A.5.5 0 0 1 1 .5z" class="cls-4" transform="translate(967 417.4)"/>
+        </g>
+        <g id="Group_142" data-name="Group 142" transform="translate(-.6)">
+            <path id="Rectangle_217" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 217" transform="translate(970 420)"/>
+            <path id="Rectangle_218" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 218" transform="translate(970 423)"/>
+            <path id="Rectangle_219" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 219" transform="translate(973 420)"/>
+            <path id="Rectangle_220" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 220" transform="translate(973 423)"/>
+            <path id="Rectangle_221" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 221" transform="translate(976 420)"/>
+            <path id="Rectangle_222" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 222" transform="translate(976 423)"/>
+            <path id="Rectangle_223" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 223" transform="translate(979 420)"/>
+            <path id="Rectangle_224" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 224" transform="translate(979 423)"/>
+        </g>
+    </g>
+</svg>

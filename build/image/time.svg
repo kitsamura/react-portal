@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#bababa;stroke-width:2px}.cls-2{fill:#bababa}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_146" data-name="Group 146" transform="translate(-70 -648)">
+        <g id="Ellipse_67" class="cls-1" data-name="Ellipse 67" transform="translate(70 648)">
+            <circle cx="9" cy="9" r="9" class="cls-3"/>
+            <circle cx="9" cy="9" r="8" class="cls-4"/>
+        </g>
+        <rect id="Rectangle_228" width="2" height="8" class="cls-2" data-name="Rectangle 228" rx="1" transform="translate(78 651)"/>
+        <rect id="Rectangle_229" width="2" height="5" class="cls-2" data-name="Rectangle 229" rx="1" transform="rotate(120 -148.765 353.7)"/>
+    </g>
+</svg>
